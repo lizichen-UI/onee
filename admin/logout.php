@@ -1,0 +1,3 @@
+<?php
+/* 作者QQ：2769544753，倒卖全家死光光出门被大运压死~ */
+ goto eyadsGbx3V; eyadsGbx3V: require_once __DIR__ . "\x2f\x61\x75\164\x68\x2e\160\x68\160"; if (!($_SERVER["\x52\x45\121\125\x45\123\124\137\x4d\105\x54\x48\117\x44"] !== "\120\x4f\x53\124")) { goto PI3p8jiNf4; } header("\114\x6f\x63\x61\164\151\x6f\156\x3a\x20\x69\156\x64\x65\170\x2e\160\150\x70"); exit; PI3p8jiNf4: goto IUfg_Bo2ue; IUfg_Bo2ue: $token = $_POST["\x63\163\162\146\137\164\x6f\153\x65\x6e"] ?? ''; if (!(is_logged_in() && verify_csrf($token))) { goto qO3sIKBt17; } logout(); qO3sIKBt17: header("\114\157\143\x61\164\151\x6f\156\72\x20\x69\156\144\145\x78\x2e\160\x68\160"); goto p_HxEfuVnz; p_HxEfuVnz: exit;
